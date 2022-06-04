@@ -1,2 +1,2 @@
 # java_excercise_2022
-java基础联系【毕向东课程】
+java基础练习【毕向东课程】
