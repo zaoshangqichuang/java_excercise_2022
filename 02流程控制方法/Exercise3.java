@@ -1,6 +1,6 @@
 /**
- * no1:99³Ë·¨±í
- * no2:´òÓ¡µÈÑüÈı½ÇĞÎ
+ * no1:99ä¹˜æ³•è¡¨
+ * no2:æ‰“å°ç­‰è…°ä¸‰è§’å½¢
  */
 package exercise3;
 public class Exercise3
